@@ -1,1 +1,1 @@
-print("privet mir")
+print("privet world")
